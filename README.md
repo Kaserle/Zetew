@@ -1,7 +1,13 @@
 # Info
-- Minecraft **C++ Developer**
-- My youtube channel is [Zetew](https://youtube.com/@zetew)
+- 🧑‍💻 **C++ Developer**
+- 🖥️ Working on **Custom** ImGui menus
+> Im going to upload some of **custom imgui menus** for free that got **leaked** before.
+>
+> I dont sell any **free/open source codes**
 
-# If you are looking for a developer
-- I can code an **autoclicker** or **ghost client** with **c++**
-- contact **__@queryperfomance__** on discord 
+# Contacts
+- 💬 Discord: **__@queryperfomance__**
+- ☎️ Telegram: **zetewxd**
+> Im not that free because maybe we are living in a **diffrent timezone**
+> 
+> so you have to contact me when its **up time for asians**
