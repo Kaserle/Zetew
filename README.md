@@ -6,7 +6,7 @@
 > I dont sell any **free/open source codes**
 
 # Contacts
-- 💬 Discord: **__@queryperfomance__**
+- 💬 Discord: **__@chinkowner__**
 - ☎️ Telegram: **zetewxd**
 > Im not that free because maybe we are living in a **diffrent timezone**
 > 
